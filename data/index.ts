@@ -107,7 +107,7 @@ export const projects = [
 
 export const testimonials = [
     {
-        quote: "Working with Sero, a young IT specialist and frontend developer, has been a game-changer. This positive, kind guy has an innovative mindset and unparalleled technical skills for his age that have consistently turned complex challenges into seamless solutions. Together, we've built different projects within Prime IT Web Development Company. Alex's ability to stay ahead of industry trends, coupled with his collaborative spirit and friendly attitude makes him an invaluable asset to any team. He doesn't just solve problems, but helps to elevate the entire project with his dedication. Truly a young professional and a joy to work with!",
+        quote: "Working with Sero, a young IT specialist and frontend developer, has been a game-changer. This positive, kind guy has an innovative mindset and unparalleled technical skills for his age that have consistently turned complex challenges into seamless solutions. Together, we've built different projects within Prime IT Web Development Company. Sero's ability to stay ahead of industry trends, coupled with his collaborative spirit and friendly attitude makes him an invaluable asset to any team. He doesn't just solve problems, but helps to elevate the entire project with his dedication. Truly a young professional and a joy to work with!",
         name: "Robert Antonyan",
         title: "UI/UX Designer",
     },
