@@ -13,6 +13,17 @@ const RecentProjects = () => {
                 A small selection of{" "}
                 <span className="text-purple">recent projects</span>
             </h1>
+            <h2 className="text-center mt-4 transition-colors">
+                All projects done when I worked at
+                <a
+                    href="https://primeit.dev/"
+                    target="_blank"
+                    className="text-blue-200 hover:text-blue-300 transition-colors"
+                >
+                    {" "}
+                    Prime It Web Development LLC
+                </a>
+            </h2>
             <div className="flex flex-wrap items-center justify-center p-4 gap-16 mt-10">
                 {projects.map((item) => (
                     <div

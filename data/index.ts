@@ -148,7 +148,7 @@ export const workExperience = [
     },
     {
         id: 2,
-        title: "Mobile App Dev - Best Brilliance App",
+        title: "Mobile App Dev ",
         desc: "Developed a mobile app for both iOS and Android platforms using React Native. The app is designed to accurately measure ring sizes using image recognition for precise finger measurement. It features a user-friendly interface that enhances user experience and includes a chat function for customer support.",
         className: "md:col-span-2",
         thumbnail: "/exp2.svg",
